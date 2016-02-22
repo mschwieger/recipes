@@ -38,7 +38,7 @@
             <key>Arguments</key>
             <dict>
                 <key>input_plist_path</key>
-                <string>%pathname%/MPEG\ Streamclip/Contents/Info.plist</string>
+                <string>%pathname%/MPEG\ Streamclip\ 1.9.3b8/Contents/Info.plist</string>
                 <key>plist_version_key</key>
                 <string>CFBundleVersion</string>
             </dict>
